@@ -6,7 +6,7 @@ class Message():
         """
         a simple function that prints a message
         """
-        printf "Hello World!"
+        printf 'Hello World!'
 
 
 if __name__ == "__main__":
